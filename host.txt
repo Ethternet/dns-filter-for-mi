@@ -67,3 +67,23 @@
 ||*.homeyd.chaoxing.com
 ||*.v2.sougou.com
 ||*.fsacebook.com
+||*.ldmnq.com
+||*.ipify.org
+||*.icanhazip.com
+||*.ident.me
+||*.paydns.wechatpay.cn
+||*.long.weixin.qq.com
+||*.bycmyd.haiscjbsajkbdvk.com
+||*.nstool.netease.com
+||*.mi-fds.com
+||*.fds.api.xiaomi.com
+||*.fds.api.mi-img.com
+||*.rcpc-sdk-access.m.qq.com
+||*.rcpc-sdk-access-v6.m.qq.com
+||*.market.mi-img.com
+||*.t1.market.xiaomi.com
+@@||*.api.apijia.cn
+#this serverchan client upper channel
+@@||*.i.pixiv.ddns-ip.net
+@@||*.h.pixiv.ddns-ip.net
+#it seemly baned by Nextdns Ai Treat Delection
