@@ -1,5 +1,5 @@
 !title:my dns filter
-!version:20250607
+!version:20250918
 !homepackage:https://github.com/Ethternet/dns-filter-for-mi
 ||*.easemob.com
 ||*.nstool.netease.com
@@ -90,4 +90,5 @@
 ||*.markusfisch.de
 #the app made by him anouced it entirely offline but still contact to this website
 ||*.io.mi.com
+
 
