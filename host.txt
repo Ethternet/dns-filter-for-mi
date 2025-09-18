@@ -87,3 +87,7 @@
 @@||*.i.pixiv.ddns-ip.net
 @@||*.h.pixiv.ddns-ip.net
 #it seemly baned by Nextdns Ai Treat Delection
+||*.markusfisch.de
+#the app made by him anouced it entirely offline but still contact to this website
+||*.io.mi.com
+
