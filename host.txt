@@ -90,5 +90,8 @@
 ||*.markusfisch.de
 #the app made by him anouced it entirely offline but still contact to this website
 ||*.io.mi.com
-
-
+||*.ths123.com
+||*.finclip.com
+||*.yximgs.com
+||*.jiashule.com
+||*.topservice.lxt6.cn
