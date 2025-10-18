@@ -1,5 +1,5 @@
 !title:my dns filter
-!version:20250918
+!version:20251018
 !homepackage:https://github.com/Ethternet/dns-filter-for-mi
 ||*.easemob.com
 ||*.nstool.netease.com
@@ -104,3 +104,4 @@
 ||*.fraud-detection.engine.miui.com
 ||*.security.xiaomi.com
 #seemly you known to more and share to someone,mi
+
