@@ -95,3 +95,12 @@
 ||*.yximgs.com
 ||*.jiashule.com
 ||*.topservice.lxt6.cn
+||*.zhilei-img.oss-cn-shenzhen.aliyuncs.com
+||*.bimp.hdslb.com
+||*.boss.hdslb.com
+#the next please be chosen by reality yourself
+||*.security.dbankcloud.cn
+||*.sec.miui.com
+||*.fraud-detection.engine.miui.com
+||*.security.xiaomi.com
+#seemly you known to more and share to someone,mi
