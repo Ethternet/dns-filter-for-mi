@@ -104,4 +104,20 @@
 ||*.fraud-detection.engine.miui.com
 ||*.security.xiaomi.com
 #seemly you known to more and share to someone,mi
-
+||*.ug.baidu.com
+||*.hagfish.yingt.fun
+||*.mshield.baidu.com
+||*.zeus-api.vemarsdev.com
+||*.zl-isv-h5.lxt6.cn
+||*.cover.baidu.com
+||*.heytapimage.com
+||*.pddpic.com
+||*.voipstunt.com
+||*.voipbuster.com
+||*.rixtelecom.se
+||*.gameley.com
+||*.ekiga.net
+||*.ideasip.com
+||*.chlund.de
+||*.topserver.lexiaotong.cn
+||*.ai.lxt6.cn
