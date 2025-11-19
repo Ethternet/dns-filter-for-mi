@@ -121,3 +121,12 @@
 ||*.chlund.de
 ||*.topserver.lexiaotong.cn
 ||*.ai.lxt6.cn
+||*.vemarsdev.com
+||*.yingt.fun
+||*.mmbiz.qpic.cn
+||*.playable.qpic.cn
+||*.cdntips.net
+||*.client.sms.miui.com
+@@||*.passport.biligame.com
+@@||v3-app.lxt6.cn
+@@||*.gov.cn
