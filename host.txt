@@ -1,5 +1,5 @@
 !title:my dns filter
-!version:20251018
+!version:202512223
 !homepackage:https://github.com/Ethternet/dns-filter-for-mi
 ||*.easemob.com
 ||*.nstool.netease.com
@@ -130,3 +130,6 @@
 @@||*.passport.biligame.com
 @@||v3-app.lxt6.cn
 @@||*.gov.cn
+||*.mcdn.bilivideo.cn
+||*.mountaintoys.cn
+
