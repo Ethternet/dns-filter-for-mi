@@ -1,7 +1,7 @@
 127.0.0.1 localhost
 ::1 localhost
 
-#ÆÁ±ÎMIUIÓ¦ÓÃ¼ì²â
+#å±è”½MIUIåº”ç”¨æ£€æµ‹
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 ixav-cse.avlyun.com
@@ -13,29 +13,29 @@
 0.0.0.0 tmfsdk.m.qq.com
 0.0.0.0 a0.app.xiaomi.com
 
-#ÆÁ±ÎºóÎŞ·¨½ÃÕıÁ÷Á¿£¬µ«ÊÇÒ²ÓÃÀ´ÏÂÔØ°×Ãûµ¥
+#å±è”½åæ— æ³•çŸ«æ­£æµé‡ï¼Œä½†æ˜¯ä¹Ÿç”¨æ¥ä¸‹è½½ç™½åå•
 0.0.0.0 api.sec.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 flash.sec.miui.com
 
-#½ûÓÃºó½«ÎŞ·¨ÔÆÉ¨Ãè²¡¶¾
+#ç¦ç”¨åå°†æ— æ³•äº‘æ‰«æç—…æ¯’
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 cn.app.chat.xiaomi.net
 
-#MIUIä¯ÀÀÆ÷ÍøÖ·À¹½Ø
+#MIUIæµè§ˆå™¨ç½‘å€æ‹¦æˆª
 127.0.0.1 browser.sentry-cdn.com
 127.0.0.1 security.browser.miui.com
 127.0.0.1 httpdns.browser.miui.com
 127.0.0.1 activity.browser.intl.miui.com
 
-#MIUIä¯ÀÀÆ÷È¥¹ã¸æ
+#MIUIæµè§ˆå™¨å»å¹¿å‘Š
 127.0.0.1 hd.browser.miui.com
 127.0.0.1 hd-preview.browser.miui.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 nav.browser.miui.com
 127.0.0.1 reader.browser.miui.com
 
-#MIUIÈ¥¹ã¸æ
+#MIUIå»å¹¿å‘Š
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 ad.intl.xiaomi.com
@@ -159,16 +159,16 @@
 127.0.0.1 zeus.ad.xiaomi.com
 
 
-#²¿·Ö¹æÔòÓĞÖØ¸´
-#²¿·Ö¹æÔòÓĞÖØ¸´
-#Èí¼ş°²×°ÑéÖ¤Ïà¹Ø£¬½¨ÒéÆÁ±Î£¬Äã¶®µÄ
+#éƒ¨åˆ†è§„åˆ™æœ‰é‡å¤
+#éƒ¨åˆ†è§„åˆ™æœ‰é‡å¤
+#è½¯ä»¶å®‰è£…éªŒè¯ç›¸å…³ï¼Œå»ºè®®å±è”½ï¼Œä½ æ‡‚çš„
 127.0.0.1 api.installer.xiaomi.com
 127.0.0.1 beacon-api.aliyuncs.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 api-middle.transfer.sec.miui.com
 127.0.0.1 api.sec.miui.com
-#ÊÖ»ú¹Ü¼ÒÏà¹Ø£¬²¡¶¾Êı¾İ¿âºÍÁªÍø²éÉ±
-#²»¹ı°²×¿ÏµÍ³²¡¶¾²¢²»Ëã¶à£¬ÓÉÓÚºÍÒşË½Ïà¹Ø¹Ê×öÆÁ±Î
+#æ‰‹æœºç®¡å®¶ç›¸å…³ï¼Œç—…æ¯’æ•°æ®åº“å’Œè”ç½‘æŸ¥æ€
+#ä¸è¿‡å®‰å“ç³»ç»Ÿç—…æ¯’å¹¶ä¸ç®—å¤šï¼Œç”±äºå’Œéšç§ç›¸å…³æ•…åšå±è”½
 127.0.0.1 miui-fxcse.avlyun.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 tmfsdk.m.qq.com
@@ -179,42 +179,42 @@
 127.0.0.1 flash.sec.miui.com
 127.0.0.1 data.sec.miui.com
 127.0.0.1 auth.be.sec.miui.com
-#ÕâÓ¦¸ÃÊÇ°²×°ÑéÖ¤£¬½¨ÒéÆÁ±Î
+#è¿™åº”è¯¥æ˜¯å®‰è£…éªŒè¯ï¼Œå»ºè®®å±è”½
 127.0.0.1 api-installer.pt.xiaomi.com
 127.0.0.1 preview-api.installer.xiaomi.com
 127.0.0.1 test-api-installer.pt.xiaomi.com
-#²»ÖªµÀ¸ÉÂïµÄ
+#ä¸çŸ¥é“å¹²å˜›çš„
 127.0.0.1 api.hybrid.intl.xiaomi.com
 127.0.0.1 api.hybrid.xiaomi.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
-#»¹ÊÇ²»ÖªµÀ¸ÉÂïµÄ
+#è¿˜æ˜¯ä¸çŸ¥é“å¹²å˜›çš„
 127.0.0.1 data.game.xiaomi.com
-#Ğ¡Ã×Ãî²¥£¿Õâ¶«Î÷Ò²²»ĞèÒªÁªÍø°¡
+#å°ç±³å¦™æ’­ï¼Ÿè¿™ä¸œè¥¿ä¹Ÿä¸éœ€è¦è”ç½‘å•Š
 127.0.0.1 milink.ac.mi.com
 127.0.0.1 link.g.mi.com
 127.0.0.1 connect-milink.g.mi.com>
-#°²È«Ïà¹Ø
+#å®‰å…¨ç›¸å…³
 127.0.0.1 api.miui.security.xiaomi.com
-#°²È«Ïà¹Ø
+#å®‰å…¨ç›¸å…³
 127.0.0.1 auth.be.sec.miui.com
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 flash.sec.miui.com
 127.0.0.1 data.sec.intl.miui.com
 127.0.0.1 data.sec.miui.com
-#°²È«Ïà¹Ø
+#å®‰å…¨ç›¸å…³
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
-#¹íÖªµÀÉ¶¶«Î÷
+#é¬¼çŸ¥é“å•¥ä¸œè¥¿
 127.0.0.1 api.jr.mi.com
-#°²È«Ïà¹Ø
+#å®‰å…¨ç›¸å…³
 127.0.0.1 embed.sec.miui.com
-#¹íÖªµÀÉ¶¶«Î÷£¿ÒşË½±£»¤ĞèÒªÁªÍøÄÇ»¹½ĞÒşË½±£»¤£¿¼òÖ±ÊÇÒşË½ÆÆ»µ°É
+#é¬¼çŸ¥é“å•¥ä¸œè¥¿ï¼Ÿéšç§ä¿æŠ¤éœ€è¦è”ç½‘é‚£è¿˜å«éšç§ä¿æŠ¤ï¼Ÿç®€ç›´æ˜¯éšç§ç ´åå§
 127.0.0.1 privacy.api.intl.miui.com
-#ÏÂÃæÕâ¶ÎĞŞ¸Ä×Ô¿á°²@ÅµÀ¶µÄMIUIYYDS£¬ËäÈ»ºÍÄ£¿éÖ÷ÌâÃ²ËÆ²»´îµ«ÊÇÓÉÓÚÓ¦¸ÃÈ·ÊµÓĞĞ§¹û¾Í¼Ó½øÈ¥ÁË
-#ÎªÊ²Ã´Òª°ÑµØÖ·ÓÉ0.0.0.0¸Ä³É127.0.0.1ÄØ£¿²»¶¼ÊÇÖ¸ÏòlocalhostÂğ£¿
-#ÎÊ¾ÍÊÇ¸öÈË±È½ÏÏ²»¶ÓÃ127.0.0.1°ÕÁË
-#ÔÆ¿ØÏÂ·¢£¿²»¹ıÔÆ¿ØÒÑ¾­ÓÃ¿ÕÎÄ¼şäÆÃ»ÁË£¬ËùÒÔÁô×Å½ö¹©¹ÛÉÍ
+#ä¸‹é¢è¿™æ®µä¿®æ”¹è‡ªé…·å®‰@è¯ºè“çš„MIUIYYDSï¼Œè™½ç„¶å’Œæ¨¡å—ä¸»é¢˜è²Œä¼¼ä¸æ­ä½†æ˜¯ç”±äºåº”è¯¥ç¡®å®æœ‰æ•ˆæœå°±åŠ è¿›å»äº†
+#ä¸ºä»€ä¹ˆè¦æŠŠåœ°å€ç”±0.0.0.0æ”¹æˆ127.0.0.1å‘¢ï¼Ÿä¸éƒ½æ˜¯æŒ‡å‘localhostå—ï¼Ÿ
+#é—®å°±æ˜¯ä¸ªäººæ¯”è¾ƒå–œæ¬¢ç”¨127.0.0.1ç½¢äº†
+#äº‘æ§ä¸‹å‘ï¼Ÿä¸è¿‡äº‘æ§å·²ç»ç”¨ç©ºæ–‡ä»¶æ·¦æ²¡äº†ï¼Œæ‰€ä»¥ç•™ç€ä»…ä¾›è§‚èµ
 127.0.0.1 preview-jupiter.sys.miui.com
 127.0.0.1 jupiter.intl.sys.miui.com
 127.0.0.1 jupiter.sys.miui.com
@@ -230,8 +230,8 @@
 127.0.0.1 staging.sdkconfig.ad.xiaomi.srv
 127.0.0.1 staging.tracking.miui.com
 127.0.0.1 api.developer.xiaomi.com
-#¸ĞĞ»Õâ¸öÏîÄ¿À´µÄhostÎÄ¼şhttps://github.com/Moe-hacker/FuckMIUI
-#´Ë´¦Ö÷ÒªÆÁ±ÎĞ¡Ã×ÔÆÉ¨Ãè×é¼ş£¬µ±ÔÆÉ¨Ãè(±¸·İ)ÓÃ²»ÁËÊ±£¬ÇëÉ¾³ıÒÔÏÂÕâ²¿·ÖµÄ¹æÔò
+#æ„Ÿè°¢è¿™ä¸ªé¡¹ç›®æ¥çš„hostæ–‡ä»¶https://github.com/Moe-hacker/FuckMIUI
+#æ­¤å¤„ä¸»è¦å±è”½å°ç±³äº‘æ‰«æç»„ä»¶ï¼Œå½“äº‘æ‰«æ(å¤‡ä»½)ç”¨ä¸äº†æ—¶ï¼Œè¯·åˆ é™¤ä»¥ä¸‹è¿™éƒ¨åˆ†çš„è§„åˆ™
 0.0.0.0 log.avlyun.sec.intl.miui.com
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 ixav-cse.avlyun.com
@@ -244,38 +244,40 @@
 0.0.0.0 api.installer.xiaomi.com
 0.0.0.0 tmfsdk.m.qq.com
 0.0.0.0 a0.app.xiaomi.com
-#½ûÓÃºó½«ÎŞ·¨ÔÆÉ¨Ãè²¡¶¾
+#ç¦ç”¨åå°†æ— æ³•äº‘æ‰«æç—…æ¯’
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 cn.app.chat.xiaomi.net
-#ÒÉËÆÔÆÅÌ£¬×ÔĞĞ¾ö¶¨
+#ç–‘ä¼¼äº‘ç›˜ï¼Œè‡ªè¡Œå†³å®š
 #127.0.0.1 pdc.micloud.xiaomi.net
 127.0.0.1 a.hl.mi.com
-#½ûÓÃºó¿ÉÄÜ»áµ¼ÖÂĞ¡Ã×ä¯ÀÀÆ÷ÎŞ·¨ÏÂÔØAPK£¬ÒòÎªÓĞÀ¬»øÍÆ¹ã°²×°
+#ç¦ç”¨åå¯èƒ½ä¼šå¯¼è‡´å°ç±³æµè§ˆå™¨æ— æ³•ä¸‹è½½APKï¼Œå› ä¸ºæœ‰åƒåœ¾æ¨å¹¿å®‰è£…
 127.0.0.1 idm.api.io.mi.com
 127.0.0.1 api.jr.mi.com
 127.0.0.1 ssl-cdn.static.browser.mi-img.com
 127.0.0.1 flash.sec.miui.com
-# MIUI °²×°¼ì²é
+# MIUI å®‰è£…æ£€æŸ¥
 127.0.0.1 api.installer.xiaomi.com
-# Á÷Á¿¸üĞÂ¡¢²¡¶¾°×Ãûµ¥
+# æµé‡æ›´æ–°ã€ç—…æ¯’ç™½åå•
 127.0.0.1 api.sec.miui.com
 
-# ½ûÓÃºóÎŞ·¨¿ªÆô²¿·ÖÈ¨ÏŞ
+# ç¦ç”¨åæ— æ³•å¼€å¯éƒ¨åˆ†æƒé™
 #127.0.0.1 srv.sec.miui.com
 
-#È¨ÏŞÔÆ¿Ø ºÃÏñÖ»Õë¶Ô²¿·Ö»úĞÍ£¿
+#æƒé™äº‘æ§ å¥½åƒåªé’ˆå¯¹éƒ¨åˆ†æœºå‹ï¼Ÿ
 127.0.0.1 auth.be.sec.miui.com
 
-#·´Õ©
+#åè¯ˆ
 127.0.0.1 flash.sec.miui.com
 
 
-# ÏµÍ³Ó¦ÓÃ¼ì²é¸üĞÂ e.g ÏÂÔØ¹ÜÀí
+# ç³»ç»Ÿåº”ç”¨æ£€æŸ¥æ›´æ–° e.g ä¸‹è½½ç®¡ç†
 127.0.0.1 api.developer.xiaomi.com
 
-#??? ÔÆ¿Ø?
+#??? äº‘æ§?
 127.0.0.1 qsb.browser.miui.srv
 127.0.0.1 rom.pt.miui.srv
 127.0.0.1 ccc.sys.miui.com
 127.0.0.1 jupiter.sys.miui.com
 127.0.0.1 metok.sys.miui.com
+#customise additional
+0.0.0.0 *.mijia.tech
