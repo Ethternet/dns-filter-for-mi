@@ -1,5 +1,5 @@
 !title:my dns filter
-!version:202512223
+!version:20260112
 !homepackage:https://github.com/Ethternet/dns-filter-for-mi
 ||*.easemob.com
 ||*.nstool.netease.com
@@ -145,5 +145,6 @@
 ||*.msdxcdn.microsoft.com
 ||api.live.bilibili.com
 ||bvc.bilivideo.com
+
 
 
