@@ -132,4 +132,18 @@
 @@||*.gov.cn
 ||*.mcdn.bilivideo.cn
 ||*.mountaintoys.cn
+||*.mcdn.bilivideo.cn
+||*.smtcdns.com
+||*.chat.bilibili.com
+||message.bilibili.com
+||bimp.hdslb.com
+||boss.hdslb.com
+||api.vc.bilibili.com
+||app.bilibili.com
+||bvc.bilibili.com
+||interface.bilibili.com
+||*.msdxcdn.microsoft.com
+||api.live.bilibili.com
+||bvc.bilivideo.com
+
 
