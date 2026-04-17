@@ -146,6 +146,7 @@
 ||api.live.bilibili.com
 ||bvc.bilivideo.com
 ||*.mountaintoys.cn
+||*.dhsz.cn
 
 
 
