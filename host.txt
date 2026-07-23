@@ -1,5 +1,5 @@
 !title:my dns filter
-!version:20260112
+!version:20260723
 !homepackage:https://github.com/Ethternet/dns-filter-for-mi
 ||*.easemob.com
 ||*.nstool.netease.com
