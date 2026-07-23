@@ -152,5 +152,5 @@
 ||*.cxkfwn.com
 ||*.msftconnecttest.com
 !Due to the public DNS hijacking incident that happened on July 22, 2026, we decided to block this domain.(msftconnecttest.com)
-
+||*.nexitech.cn
 
