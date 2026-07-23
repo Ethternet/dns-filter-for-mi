@@ -148,6 +148,7 @@
 ||*.mountaintoys.cn
 ||*.dhsz.cn
 ||*.predownload-admin.g.mi.com
+||*.yirujs.com
 
 
 
